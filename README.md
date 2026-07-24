@@ -23,6 +23,7 @@ hands-on lab from the program.
 
 | Notebook | Topic |
 |---|---|
+| `foundations_exploratory_data_analysis.ipynb` | Foundations and exploratory data analysis notebook covering Python fundamentals, NumPy, pandas, and a complete data-cleaning workflow |
 | `qiyas-lab-pandas-data-cleaning.ipynb` | Cleaning and analyzing a university student dataset with pandas (handling missing values, imputation, descriptive statistics) |
 
 More labs will be added here as the course progresses.
